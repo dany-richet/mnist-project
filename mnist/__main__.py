@@ -6,3 +6,4 @@ if __name__ == "__main__":
     model = Model(path_pickle)
     res = model.predict(path_img)
     print(res)
+    print("1")
